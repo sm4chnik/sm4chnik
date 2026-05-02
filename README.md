@@ -6,6 +6,19 @@ Focused on performance, UI architecture, and zero-downtime migrations.
 
 ---
 
+## 👨‍💻 About me
+
+I’m a frontend engineer who cares about systems, not just components.
+
+I enjoy working on complex products where performance, scalability, and architecture actually matter — especially in domains like fintech and enterprise platforms.
+
+My approach is simple:
+- build things that scale
+- reduce complexity where possible
+- and leave the codebase better than I found it
+
+---
+
 ## 🚀 What I do
 
 - Design and evolve frontend architectures for high-load applications
@@ -23,7 +36,33 @@ Focused on performance, UI architecture, and zero-downtime migrations.
 - 📉 Reduced dashboard load time by **60%** via GraphQL migration
 - 🧪 Introduced testing culture → **-37% runtime errors**
 - 🚀 Improved delivery process → **95% on-time releases (from 60%)**
-- 📦 Reduced bundle build time by **50%**
+- 📦 Reduced build time by **50%**
+
+---
+
+## ⚡ Currently
+
+- 🧱 Building and improving frontend architectures for high-load systems
+- ⚛️ Exploring advanced React patterns and rendering optimization
+- 🧩 Designing scalable UI systems and design approaches
+- 🧪 Improving testing strategies (unit + E2E)
+
+---
+
+## 🌱 Learning / Exploring
+
+- 🧠 Advanced frontend performance (rendering, memory, virtualization)
+- 🔄 Migration strategies for legacy systems
+- 🏗 Engineering leadership and team scaling
+- 🤖 AI in frontend workflows
+
+---
+
+## 🤝 Open to
+
+- Collaboration on **serious frontend / architecture-heavy projects**
+- Discussions about performance, UI systems, and scaling teams
+- Interesting product ideas in fintech or dev tooling
 
 ---
 
@@ -62,14 +101,20 @@ Focused on performance, UI architecture, and zero-downtime migrations.
 
 ## 🔍 What to look at
 
-I focus on real engineering problems rather than toy projects.  
-Here are areas I’m particularly interested in:
+I focus on real engineering problems rather than toy projects.
 
+Key areas:
 - High-performance UI (virtualization, rendering optimization)
 - Complex forms and validation systems
 - Design systems & UI kits
 - Frontend architecture and scaling teams
-- Migration strategies for legacy systems
+- Legacy system migrations
+
+---
+
+## 🎯 Fun fact
+
+I enjoy chess and approach engineering problems the same way — thinking in terms of position, trade-offs, and long-term strategy.
 
 ---
 
