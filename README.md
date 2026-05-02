@@ -29,18 +29,34 @@ Focused on performance, UI architecture, and zero-downtime migrations.
 
 ## 🛠 Tech Stack
 
-**Frontend**
-React, Next.js, Angular, React Native  
-TypeScript, RxJS, Redux, NgRx, Zustand  
+### Frontend
+![React](https://img.shields.io/badge/-React-000?logo=react)
+![Angular](https://img.shields.io/badge/-Angular-000?logo=angular)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
 
-**UI & Styling**
-Tailwind, Material UI, Ant Design, PrimeNG, Bootstrap  
+### State & Data
+![Redux](https://img.shields.io/badge/-Redux-000?logo=redux)
+![NgRx](https://img.shields.io/badge/-NgRx-000?logo=ngrx)
+![RxJS](https://img.shields.io/badge/-RxJS-000?logo=reactivex)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql)
 
-**Tools**
-Webpack, Vite, Jest, React Testing Library, Docker  
+### UI & Styling
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/-MUI-000?logo=mui)
+![Ant Design](https://img.shields.io/badge/-AntDesign-000?logo=antdesign)
 
-**Backend (when needed)**
-Node.js, NestJS, Prisma  
+### Tools & Testing
+![Webpack](https://img.shields.io/badge/-Webpack-000?logo=webpack)
+![Vite](https://img.shields.io/badge/-Vite-000?logo=vite)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
+![Playwright](https://img.shields.io/badge/-Playwright-000?logo=playwright)
+
+### Backend (when needed)
+![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 
 ---
 
