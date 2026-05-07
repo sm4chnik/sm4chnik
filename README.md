@@ -17,6 +17,8 @@ My approach is simple:
 - reduce complexity where possible
 - and leave the codebase better than I found it
 
+Also you can check one of my own projects here: https://github.com/sm4chnik/myWordCoachAll
+Shortly, that is the plathform for learning languages.
 ---
 
 ## 🚀 What I do
