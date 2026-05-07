@@ -30,7 +30,7 @@ Implemented spaced repetition algorithms for vocabulary retention
 Built a smooth, feedback-rich UI with micro-interactions
 Stack: React, React Native, Node.js, PostgreSQL
 
-🔗 github.com/sm4chnik/myWordCoachAll
+🔗 [github.com/sm4chnik/myWordCoachAll](https://github.com/sm4chnik/myWordCoachAll)
 
 ---
 
