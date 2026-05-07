@@ -18,6 +18,7 @@ My approach is simple:
 - and leave the codebase better than I found it
 
 Also you can check one of my own projects here: https://github.com/sm4chnik/myWordCoachAll.
+
 Shortly, that is the platform for learning languages
 
 ---
