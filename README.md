@@ -16,10 +16,21 @@ My approach is simple:
 - build things that scale
 - reduce complexity where possible
 - and leave the codebase better than I found it
+  
+___
 
-Also you can check one of my own projects here: https://github.com/sm4chnik/myWordCoachAll.
+## 🧩 Projects
 
-Shortly, that is the platform for learning languages
+myWordCoach — Language Learning Platform
+
+A personal full-stack project built from the ground up:
+
+Designed and shipped the full architecture solo
+Implemented spaced repetition algorithms for vocabulary retention
+Built a smooth, feedback-rich UI with micro-interactions
+Stack: React, React Native, Node.js, PostgreSQL
+
+🔗 github.com/sm4chnik/myWordCoachAll
 
 ---
 
